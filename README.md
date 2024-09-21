@@ -1,10 +1,13 @@
-# Saiful Rijal
+# MINI-SC-INFINITE
 
 ## Kelompok 1 Figma
+- Nama : Saiful Rijal
+- Nim : 24-106
+- Prodi : TIF
+  
+Selamat datang di repositori GitHub ini. Repositori ini merupakan tugas dari mini studi club 2024 yang berfokus pada pengembangan proyek menggunakan bahasa pemrograman Python.
 
-Selamat datang di repositori GitHub ini. Repositori ini merupakan bagian dari Kelompok 1 Figma, yang berfokus pada pengembangan proyek menggunakan bahasa pemrograman Python.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="90" />
 
 ## Lisensi
 
